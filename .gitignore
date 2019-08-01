@@ -105,4 +105,5 @@ venv.bak/
 
 # Config file
 *config.py
+*config.zip
 !config_SAMPLE,py
